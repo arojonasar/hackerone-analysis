@@ -1,0 +1,12 @@
+selenium
+requests
+argparse
+pandas
+numpy
+matplotlib
+seaborn
+squarify
+textwrap
+importlib
+scipy
+sklearn
